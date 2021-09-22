@@ -9,12 +9,13 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
 </div>
  <div>
   <a href="https://github.com/emarcarini">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=emarcarini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emarcarini&layout=compact&langs_count=7&theme=dark"/>
+  <img width="100%" src="https://emarcarini.vercel.app/api?username=emarcarini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="100%" src="https://emarcarini.vercel.app/api/top-langs/?username=emarcarini&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
