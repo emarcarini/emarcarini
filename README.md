@@ -1,5 +1,5 @@
 ## Bem vindo, segura firme seu copo de café e vem comigo ;)
-
+-
  <div style="display: inline_block">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -12,10 +12,10 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
 </div>
+ -
  <div>
-  <a href="https://github.com/emarcarini">
   <img width="100%" src="https://emarcarini.vercel.app/api?username=emarcarini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="100%" src="https://emarcarini.vercel.app/api/top-langs/?username=emarcarini&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+
 </div>
 
