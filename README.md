@@ -13,8 +13,8 @@
   </div>
 
  <div>
-  <img width="100%" src="https://emarcarini.vercel.app/api?username=emarcarini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="100%" src="https://emarcarini.vercel.app/api/top-langs/?username=emarcarini&layout=compact&langs_count=7&theme=dark"/>
+  <img width="100%" src="https://emarcarini.vercel.app/api?username=emarcarini&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=0&locale=pt-br"/>
+  <img width="100%" src="https://emarcarini.vercel.app/api/top-langs/?username=emarcarini&layout=compact&langs_count=7&theme=dark&border_radius=0&locale=pt-br"/>
 
 </div>
 
