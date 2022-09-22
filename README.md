@@ -1,4 +1,14 @@
-## Bem vindo, segura firme seu copo de café e vem comigo ;)
+## Bem-vindo, segura firme seu copo de café e vem comigo ;)
+
+Com mais de uma década de experiencia em desenvolvimento web, amplo portifólio de soluções em diversas tecnologias tais como Laravel, cakePHP, Wordpress e até (acredite se quiser) PHP PURO. 
+
+Por passar muito tempo dentro de grandes agencias de publicidades sempre vejo a WEB como oportunidade de vendas.
+
+Desenvolvedor entusiasta, apaixonado por tecnologia e internet das coisas.
+
+Curioso, sempre buscando aprender algo novo, atualmente estudando; e apaixonado por Inertia.js, Next.js.
+
+Busco soluções com dinamismo, eficiência e criatividade.
 
   <div style="display: inline_block">
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
