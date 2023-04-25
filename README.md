@@ -1,14 +1,12 @@
 ## Bem-vindo, segura firme seu copo de café e vem comigo ;)
 
-Com mais de uma década de experiencia em desenvolvimento web, amplo portifólio de soluções em diversas tecnologias tais como Laravel, cakePHP, Wordpress e até (acredite se quiser) PHP PURO. 
+Com mais de uma década de experiência em desenvolvimento web, eu tenho um portfólio repleto de soluções que vão te deixar de queixo caído. Trabalho com tecnologias como Laravel, cakePHP, Wordpress e até (pasmem!) PHP PURO.
 
-Por passar muito tempo dentro de grandes agencias de publicidades sempre vejo a WEB como oportunidade de vendas.
+Mas eu não sou apenas um desenvolvedor comum. Com minha vivência em grandes agências de publicidade, vejo a WEB como uma grande oportunidade de vendas e isso me inspira a criar soluções cada vez mais inovadoras.
 
-Desenvolvedor entusiasta, apaixonado por tecnologia e internet das coisas.
+Eu sou um entusiasta da tecnologia, um verdadeiro amante da internet das coisas e sempre curioso para aprender algo novo. Atualmente, estou me dedicando de corpo e alma ao estudo de Inertia.js e Next.js, porque eu acredito que essas são as ferramentas do futuro.
 
-Curioso, sempre buscando aprender algo novo, atualmente estudando; e apaixonado por Inertia.js, Next.js.
-
-Busco soluções com dinamismo, eficiência e criatividade.
+Com dinamismo, eficiência e criatividade, eu busco sempre soluções que vão além do esperado. Então, vamos juntos criar algo incrível e transformar o mundo digital!
 
   <div style="display: inline_block">
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
