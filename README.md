@@ -25,6 +25,4 @@ Com dinamismo, eficiência e criatividade, eu busco sempre soluções que vão a
   <img width="100%" src="https://emarcarini.vercel.app/api/top-langs/?username=emarcarini&layout=compact&langs_count=7&theme=dark&border_radius=0&locale=pt-br"/>
 
 </div>
-<img width="100%" src="https://github.com/emarcarini/emarcarini/blob/output/github-contribution-grid-snake.svg"/>
-
 
